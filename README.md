@@ -2,6 +2,8 @@
 
 A Test Api with Getx Flutter project by Walid
 
+![](https://github.com/walidx64/Crypto_market_api_getx/blob/main/Screenshot_1678652698.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
